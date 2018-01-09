@@ -15,7 +15,7 @@ So far, the program can generate a latin square, and find its orthogonal mate if
 
 <br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/Otays/Magic-Hunter/master/images/2.png" />
+<img src="https://raw.githubusercontent.com/Otays/Magic-Hunter/master/images/3.png" />
 </p>
 
 
