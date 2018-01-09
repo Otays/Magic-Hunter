@@ -11,7 +11,7 @@ Magic Hunter is a project dedicated to finding orthogonal latin squares.  Curren
 </p>
 
 ## Development Log ##
-So far, the program can generate a latin square, and find its orthogonal mate if it exists.  
+So far, the program can generate a latin square, and find an orthogonal mate if it exists.  
 
 <br>
 <p align="center">
@@ -23,3 +23,5 @@ So far, the program can generate a latin square, and find its orthogonal mate if
 1. Right now the hunting algorithm is naive and sequential. Next step is adding parallelism and switching to Knuth's dancing links for better efficiency.
 
 2. The interface is currently all in command line text.  Next step is to implement a swing interface.
+
+3. The algorithm only provides the first orthogonal mate it can find.  To improve the software, it should instead allow more diverse queries such as finding all orthogonal mates.
