@@ -25,3 +25,5 @@ So far, the program can generate a latin square, and find an orthogonal mate if 
 2. The interface is currently all in command line text.  Next step is to implement a swing interface.
 
 3. The algorithm only provides the first orthogonal mate it can find.  To improve the software, it should instead allow more diverse queries such as finding all orthogonal mates.
+
+4. Add javadoc
